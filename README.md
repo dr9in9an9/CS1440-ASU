@@ -1,4 +1,3 @@
-# CS1440-ASU
 Hello human!
 
 This is my code dump from my Computer Science 1 class at Appalachian State University. 
